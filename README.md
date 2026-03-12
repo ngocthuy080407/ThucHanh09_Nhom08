@@ -1,7 +1,7 @@
 # NHÓM 8
 ---
-# Bài Thực Hành 9: Bảo mật thông tin và Sức khỏe số
-## Mô Tả Nội Dung
+# Bài Thực Hành 9: Bảo mật thông tin và sức khỏe số
+## Mô tả nội dung
 Mục tiêu tổng quát:
 - Hiểu khái niệm, rủi ro và nguyên tắc cơ bản về bảo mật thông tin cá nhân.
 - Nhận biết nguy cơ mất an toàn khi sử dụng Internet, mạng xã hội.
