@@ -48,7 +48,7 @@ Mục tiêu tổng quát:
 + Mỗi nhóm nhận 1 tình huống (ví dụ: tài khoản bị hack, bị lộ ảnh riêng tư, bị dụ click link lừa đảo, nghiện game).
 + Nhóm tự đóng vai (5 phút) → trình bày diễn kịch/tình huống + giải pháp xử lý.
 + Các nhóm khác phản biện, đưa ra ý kiến bổ sung.
-- **Kết quả được trình bày trong file:** [`.docx`](https://github.com/ngocthuy080407/ThucHanh09_Nhom08/blob/main/KichBanTiet5.docx), [`.mp4`](https://github.com/ngocthuy080407/ThucHanh09_Nhom08/blob/main/Tiet5.mp4)
+- **Kết quả được trình bày trong file:** [`.docx`](https://github.com/ngocthuy080407/ThucHanh09_Nhom08/blob/main/KichBanTiet5.docx)
   
 
 
