@@ -9,7 +9,7 @@ Mục tiêu tổng quát:
 - Thực hành các kỹ năng an toàn số cơ bản.
 ## Chi tiết các phần bài tập 
 ---
-### **Nhiệm vụ 1:**Tự khám phá rủi ro an ninh số
+### **Nhiệm vụ 1:** Tự khám phá rủi ro an ninh số
 - **Sinh viên thực hiện:** Đặng Minh Hiếu
 - **NHiệm vụ sinh viên:**
 - Làm khảo sát nhanh (Google Form/ giấy) về: thói quen đặt mật khẩu, tần suất dùng mạng xã hội, từng gặp rủi ro gì.
