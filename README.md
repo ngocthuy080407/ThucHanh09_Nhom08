@@ -43,7 +43,7 @@ Mục tiêu tổng quát:
 - **Kết quả được trình bày trong file:** [`.docx`](https://github.com/ngocthuy080407/ThucHanh09_Nhom08/blob/main/Ti%E1%BA%BFt_4_TH9.docx), [`.jpg`](https://github.com/ngocthuy080407/ThucHanh09_Nhom08/blob/main/Ti%E1%BA%BFt_4_infographic_TH9.jpg)
 
 ### **Nhiệm vụ 5:** Dự án tình huống & phản biện
-- **Sinh viên thực hiện:**
+- **Sinh viên thực hiện:** Hồ Vũ Thành
 - **Nhiệm vụ sinh viên:**
 + Mỗi nhóm nhận 1 tình huống (ví dụ: tài khoản bị hack, bị lộ ảnh riêng tư, bị dụ click link lừa đảo, nghiện game).
 + Nhóm tự đóng vai (5 phút) → trình bày diễn kịch/tình huống + giải pháp xử lý.
